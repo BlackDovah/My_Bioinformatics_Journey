@@ -1,0 +1,23 @@
+setup.py
+Biopython/FASTQ and FASTA.py
+Biopython/Motifs.py
+Biopython/__init__.py
+Biopython/usefulCodeChunks.py
+Course/Alignment.py
+Course/Antibiotics.py
+Course/Genome_sequencing.py
+Course/Motifs.py
+Course/Rearrangement.py
+Course/Rearrangement_from_github.py
+Course/Replication.py
+Course/__init__.py
+Course/utilities.py
+DNAToolset/Main.py
+DNAToolset/__init__.py
+DNAToolset/bio_seq.py
+DNAToolset/bio_structs.py
+DNAToolset/utilities.py
+bioTools.egg-info/PKG-INFO
+bioTools.egg-info/SOURCES.txt
+bioTools.egg-info/dependency_links.txt
+bioTools.egg-info/top_level.txt
