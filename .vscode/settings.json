@@ -1,5 +1,0 @@
-{
-    "code-runner.executorMap": {
-        "python": "call \"C:\\Work and Education\\Python39\\Bioinformatics\\.venv\\Scripts\\activate.bat\" && python -u",
-    }
-}
